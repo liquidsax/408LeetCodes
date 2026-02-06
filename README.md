@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="./README.md">English</a> | <strong>简体中文</strong>
+  <strong>English</strong> | <a href="./README_CN.md">简体中文</a>
 </div>
 # ⚡ 408 & LeetCode: The Algorithmic Journal
 
