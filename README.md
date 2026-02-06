@@ -1,3 +1,6 @@
+<div align="right">
+  <a href="./README.md">English</a> | <strong>简体中文</strong>
+</div>
 # ⚡ 408 & LeetCode: The Algorithmic Journal
 
 > *"Consistency is the key to mastery."*
